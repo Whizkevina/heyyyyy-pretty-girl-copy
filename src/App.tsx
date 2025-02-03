@@ -51,7 +51,7 @@ hold your hands, and look into your pretty eyes.`,
       image: "/character/six.png",
     },
     {
-      content: "Will you be my Valentine?",
+      content: "Will you be my Girlfriend?",
       image: "/character/seven.png",
     },
   ];
